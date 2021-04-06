@@ -1,0 +1,15 @@
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.exe
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.deps.json
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.json
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.dev.json
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.dll
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.pdb
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfoInputs.cache
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfo.cs
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CopyComplete
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.dll
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.pdb
+C:\Users\rodrigo.milioli\source\repos\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.genruntimeconfig.cache
